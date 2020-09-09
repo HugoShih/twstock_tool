@@ -2,7 +2,9 @@ import requests
 import pandas as pd
 import datetime
 import time
+import streamlit as st
 
+@st.cache
 def get_data(select_date, stock_type):
     try:
         url = "https://www.twse.com.tw/exchangeReport/MI_INDEX?response=json"
@@ -17,6 +19,7 @@ def get_data(select_date, stock_type):
         column_name_dict = {i:j for i,j in zip(stock_df.columns, column_name)}
         stock_df = stock_df.rename(columns=column_name_dict)
         stock_df["漲跌"] = stock_df["漲跌"].str[-5:-4:]
+        stock_df["本益比"] = pd.to_numeric(stock_df["本益比"], errors='coerce').fillna(0.0)
         # stock_df.to_csv(f"data/csv/{date}_tw_stock.csv", index=False)
         # print(f"Stock on {date} successfully downloaded.")
         return stock_df
