@@ -11,3 +11,5 @@ groupama/data/base_pno.*
 .idea/
 .virtual_documents
 .vscode
+*.ipynb
+data/csv/*.csv

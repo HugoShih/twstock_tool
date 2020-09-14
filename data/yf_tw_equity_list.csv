@@ -1,0 +1,500 @@
+,symbol,sector,longName
+0,1101.TW,Basic Materials,Taiwan Cement Corp.
+1,1102.TW,Basic Materials,Asia Cement Corporation
+2,1103.TW,Basic Materials,Chia Hsin Cement Corporation
+3,1104.TW,Basic Materials,Universal Cement Corporation
+4,1108.TW,Basic Materials,Lucky Cement Corporation
+5,1109.TW,Basic Materials,Hsing Ta Cement Company Limited
+6,1110.TW,Basic Materials,"Southeast Cement Co.,Ltd."
+7,1201.TW,Consumer Defensive,Wei Chuan Foods Corporation
+8,1203.TW,Consumer Defensive,Ve Wong Corporation
+9,1210.TW,Consumer Defensive,"Great Wall Enterprise Co., Ltd."
+10,1215.TW,Consumer Defensive,"Charoen Pokphand Enterprise(Taiwan) Co., Ltd."
+11,1216.TW,Consumer Defensive,Uni-President Enterprises Corp.
+12,1217.TW,Consumer Defensive,AGV Products Corporation
+13,1218.TW,Consumer Defensive,"Taisun Enterprise Co., Ltd."
+14,1219.TW,Consumer Defensive,"Fwusow Industry Co., Ltd."
+15,1220.TW,Consumer Defensive,"Tai Roun Products Co.,Ltd."
+16,1225.TW,Consumer Defensive,"Formosa Oilseed Processing Co., Ltd."
+17,1227.TW,Consumer Defensive,Standard Foods Corporation
+18,1229.TW,Consumer Defensive,Lien Hwa Industrial Holdings Corporation
+19,1231.TW,Consumer Defensive,Lian Hwa Foods Corporation
+20,1232.TW,Consumer Defensive,TTET Union Corporation
+21,1233.TW,Consumer Defensive,"Ten Ren Tea Co., Ltd."
+22,1234.TW,Consumer Defensive,Hey-Song Corporation
+23,1702.TW,Consumer Defensive,"Namchow Holdings Co., Ltd."
+24,1737.TW,Consumer Defensive,"Taiyen Biotech Co., Ltd."
+25,1301.TW,Basic Materials,Formosa Plastics Corporation
+26,1303.TW,Basic Materials,Nan Ya Plastics Corporation
+27,1304.TW,Basic Materials,USI Corporation
+28,1305.TW,Basic Materials,China General Plastics Corporation
+29,1307.TW,Consumer Cyclical,"San Fang Chemical Industry Co., Ltd."
+30,1308.TW,Basic Materials,Asia Polymer Corporation
+31,1309.TW,Basic Materials,"Taita Chemical Company, Ltd."
+32,1310.TW,Basic Materials,Taiwan Styrene Monomer Corporation
+33,1312.TW,Basic Materials,Grand Pacific Petrochemical Corporation
+34,1313.TW,Basic Materials,UPC Technology Corporation
+35,1314.TW,Basic Materials,China Petrochemical Development Corporation
+36,1315.TW,Consumer Cyclical,Tah Hsin Industrial Corporation
+37,1321.TW,Basic Materials,"Ocean Plastics Co., Ltd."
+38,1323.TW,Consumer Cyclical,"Yonyu Plastics Co., Ltd."
+39,1326.TW,Basic Materials,Formosa Chemicals & Fibre Corporation
+40,1337.TW,Basic Materials,Asia Plastic Recycling Holding Limited
+41,1340.TW,Consumer Cyclical,Victory New Materials Limited Company
+42,4306.TW,Consumer Cyclical,"Yem Chio Co., Ltd."
+43,1402.TW,Consumer Cyclical,Far Eastern New Century Corporation
+44,1409.TW,Consumer Cyclical,Shinkong Synthetic Fibers Corporation
+45,1417.TW,Consumer Cyclical,Carnival Industrial Corporation
+46,1419.TW,Consumer Cyclical,"Shinkong Textile Co.,Ltd."
+47,1434.TW,Consumer Cyclical,"Formosa Taffeta Co., Ltd."
+48,1439.TW,Consumer Cyclical,"Chuwa Wool Industry Co., (Taiwan) Ltd."
+49,1440.TW,Consumer Cyclical,"Tainan Spinning Co., Ltd."
+50,1444.TW,Consumer Cyclical,"Lealea Enterprise Co., Ltd."
+51,1447.TW,Consumer Cyclical,"Li Peng Enterprise Co., Ltd."
+52,1451.TW,Consumer Cyclical,"Nien Hsing Textile Co., Ltd."
+53,1452.TW,Consumer Cyclical,"Hong Yi Fiber Ind. Co., Ltd."
+54,1455.TW,Consumer Cyclical,"Zig Sheng Industrial Co., Ltd."
+55,1457.TW,Consumer Cyclical,"Yi Jinn Industrial Co., Ltd."
+56,1459.TW,Consumer Cyclical,"Lan Fa Textile Co.,Ltd."
+57,1460.TW,Consumer Cyclical,"Everest Textile Co., Ltd."
+58,1463.TW,Consumer Cyclical,"Chyang Sheng Dyeing & Finishing Co., Ltd."
+59,1464.TW,Consumer Cyclical,"De Licacy Industrial Co., Ltd."
+60,1467.TW,Consumer Cyclical,"Tex-Ray Industrial Co., Ltd."
+61,1473.TW,Consumer Cyclical,"Tainan Enterprises Co.,Ltd"
+62,1476.TW,Consumer Cyclical,"Eclat Textile Co., Ltd."
+63,1477.TW,Consumer Cyclical,"Makalot Industrial Co., Ltd."
+64,4414.TW,Consumer Cyclical,"Roo Hsing Co., Ltd"
+65,4438.TW,Consumer Cyclical,"Quang Viet Enterprise Co., Ltd."
+66,1503.TW,Industrials,Shihlin Electric & Engineering Corporation
+67,1504.TW,Industrials,"TECO Electric & Machinery Co., Ltd."
+68,1506.TW,Consumer Cyclical,"Right Way Industrial Co.,Ltd"
+69,1507.TW,Industrials,"Yungtay Engineering Co., Ltd."
+70,1513.TW,Industrials,Chung-Hsin Electric and Machinery Manufacturing Corp.
+71,1514.TW,Industrials,"Allis Electric Co.,Ltd."
+72,1515.TW,Industrials,"Rexon Industrial Corp.,Ltd"
+73,1517.TW,Industrials,Leechi Machinery Industry Ltd. Co.
+74,1519.TW,Industrials,"Fortune Electric Co., Ltd."
+75,1528.TW,Industrials,Anderson Industrial Corporation
+76,1530.TW,Industrials,"Awea mechantronic co.,ltd"
+77,1531.TW,Industrials,"Kaulin Mfg. Co., Ltd."
+78,1532.TW,Industrials,"China Metal Products Co., Ltd."
+79,1537.TW,Industrials,"Kung Long Batteries Industrial Co.,Ltd"
+80,1541.TW,Industrials,"CHANG TYPE Industrial Co., Ltd."
+81,1560.TW,Industrials,Kinik Company
+82,1589.TW,Industrials,"Yeong Guan Energy Technology Group Co., Ltd."
+83,1590.TW,Industrials,AirTAC International Group
+84,2049.TW,Industrials,Hiwin Technologies Corp.
+85,2371.TW,Industrials,"Tatung Co., Ltd."
+86,4526.TW,Industrials,"Tongtai Machine & Tool Co., Ltd."
+87,4540.TW,Industrials,"TBI MOTION Technology Co., Ltd."
+88,4552.TW,Industrials,Lida Holdings Limited
+89,4562.TW,Industrials,"Ying Han Technology Co., Ltd."
+90,4564.TW,Consumer Cyclical,Mosa Industrial Corporation
+91,5288.TW,Consumer Cyclical,"Eurocharm Holdings Co., Ltd."
+92,8374.TW,Industrials,"Ace Pillar Co., Ltd."
+93,1603.TW,Technology,"China Wire & Cable Co., Ltd."
+94,1604.TW,Technology,Sampo Corporation
+95,1605.TW,Industrials,Walsin Lihwa Corporation
+96,1608.TW,Industrials,"Hua Eng Wire & Cable Co., Ltd."
+97,1609.TW,Industrials,Ta Ya Electric Wire & Cable
+98,1612.TW,Industrials,"Hong Tai Electric Industrial Co., Ltd."
+99,1614.TW,Technology,"Taiwan Sanyo Electric Co.,Ltd."
+100,1618.TW,Technology,"Hold-Key Electric Wire & Cable Co., Ltd"
+101,4930.TW,Technology,"Star Comgistic Capital Co., Ltd."
+102,5283.TW,Technology,"Heran Co., Ltd."
+103,1598.TW,Consumer Cyclical,Dyaco International Inc.
+104,1701.TW,Healthcare,"China Chemical & Pharmaceutical Co., Ltd."
+105,1707.TW,Healthcare,Grape King Bio Ltd
+106,1708.TW,Basic Materials,Sesoda Corporation
+107,1709.TW,Basic Materials,Formosan Union Chemical Corp.
+108,1710.TW,Basic Materials,Oriental Union Chemical Corporation
+109,1711.TW,Basic Materials,Everlight Chemical Industrial Corporation
+110,1713.TW,Basic Materials,Cathay Chemical Works Inc.
+111,1714.TW,Basic Materials,Ho Tung Chemical Corp.
+112,1717.TW,Basic Materials,"Eternal Materials Co., Ltd."
+113,1718.TW,Basic Materials,China Man-Made Fiber Corporation
+114,1720.TW,Healthcare,"Standard Chem & Pharm CO., LTD."
+115,1722.TW,Basic Materials,"Taiwan Fertilizer Co., Ltd."
+116,1723.TW,Basic Materials,China Steel Chemical Corporation
+117,1726.TW,Basic Materials,"Yung Chi Paint & Varnish Mfg.Co.,Ltd"
+118,1731.TW,Healthcare,Maywufa Company Ltd.
+119,1733.TW,Healthcare,Apex Biotechnology Corp.
+120,1734.TW,Healthcare,"Sinphar Pharmaceutical Co.,Ltd."
+121,1736.TW,Consumer Cyclical,"Johnson Health Tech. Co., Ltd."
+122,1789.TW,Healthcare,"ScinoPharm Taiwan, Ltd."
+123,1795.TW,Healthcare,"Lotus Pharmaceutical Co., Ltd."
+124,3164.TW,Healthcare,GenMont Biotech Incorporation
+125,3705.TW,Healthcare,YungShin Global Holding Corporation
+126,4104.TW,Healthcare,"Excelsior Medical Co., Ltd."
+127,4106.TW,Healthcare,Apex Medical Corp.
+128,4108.TW,Healthcare,PhytoHealth Corporation
+129,4119.TW,Healthcare,"SCI Pharmtech, Inc."
+130,4137.TW,Consumer Defensive,Chlitina Holding Limited
+131,4141.TW,Basic Materials,Rotam Global AgroSciences Limited
+132,4142.TW,Healthcare,Adimmune Corporation
+133,4144.TW,Healthcare,Coland Holdings Limited
+134,4155.TW,Healthcare,"OK Biotech Co., Ltd."
+135,4722.TW,Basic Materials,Qualipoly Chemical Corporation
+136,4739.TW,Basic Materials,Coremax Corporation
+137,4746.TW,Healthcare,"Formosa Laboratories, Inc."
+138,4763.TW,Basic Materials,"Jinan Acetate Chemical Co., Ltd."
+139,4766.TW,Basic Materials,"Nan Pao Resins Chemical Co., Ltd."
+140,1802.TW,Consumer Cyclical,Taiwan Glass Ind. Corp.
+141,1806.TW,Industrials,"Champion Building Materials Co., Ltd."
+142,1809.TW,Industrials,"China Glaze Co.,Ltd."
+143,1810.TW,Consumer Cyclical,Hocheng Corporation
+144,1817.TW,Consumer Defensive,"Sanitar Co., Ltd."
+145,1904.TW,Basic Materials,Cheng Loong Corporation
+146,1905.TW,Basic Materials,Chung Hwa Pulp Corporation
+147,1907.TW,Basic Materials,YFY Inc.
+148,1909.TW,Consumer Cyclical,"Longchen Paper & Packaging Co., Ltd."
+149,2006.TW,Basic Materials,Tung Ho Steel Enterprise Corporation
+150,2009.TW,Basic Materials,"First Copper Technology Co., Ltd."
+151,2013.TW,Basic Materials,"China Steel Structure Co., Ltd."
+152,2014.TW,Basic Materials,Chung Hung Steel Corporation
+153,2017.TW,Basic Materials,"Quintain Steel Co., LTD."
+154,2020.TW,Basic Materials,Mayer Steel Pipe Corporation
+155,2022.TW,Basic Materials,"Tycoons Group Enterprise Co.,Ltd."
+156,2023.TW,Basic Materials,"Yieh Phui Enterprise Co., Ltd."
+157,2027.TW,Basic Materials,"Ta Chen Stainless Pipe Co., Ltd."
+158,2029.TW,Basic Materials,"Sheng Yu Steel Co., Ltd."
+159,2031.TW,Basic Materials,Hsin Kuang Steel Company Limited
+160,2034.TW,Basic Materials,"YC Inox Co.,Ltd"
+161,2069.TW,Basic Materials,"Yuen Chang Stainless Steel Co., Ltd."
+162,3004.TW,Industrials,National Aerospace Fasteners Corporation
+163,5007.TW,Industrials,San Shing Fastech Corp.
+164,9958.TW,Industrials,"Century Iron and Steel Industrial Co.,Ltd."
+165,2101.TW,Consumer Cyclical,"Nankang Rubber Tire Corp.,Ltd."
+166,2102.TW,Consumer Cyclical,Federal Corporation
+167,2103.TW,Basic Materials,TSRC Corporation
+168,2105.TW,Consumer Cyclical,"Cheng Shin Rubber Ind. Co., Ltd."
+169,2106.TW,Consumer Cyclical,Kenda Rubber Industrial Co. Ltd.
+170,2107.TW,Basic Materials,Formosan Rubber Group Inc.
+171,2108.TW,Basic Materials,"NANTEX Industry Co., Ltd."
+172,1338.TW,Consumer Cyclical,Hiroca Holdings Ltd.
+173,1339.TW,Consumer Cyclical,"Y.C.C. Parts Mfg. Co., Ltd."
+174,1521.TW,Consumer Cyclical,"Ta Yih Industrial Co., Ltd."
+175,1522.TW,Consumer Cyclical,"TYC Brother Industrial Co., Ltd."
+176,1533.TW,Consumer Cyclical,"Mobiletron Electronics Co.,Ltd."
+177,1536.TW,Consumer Cyclical,"Hota Industrial Mfg. Co., Ltd."
+178,2201.TW,Consumer Cyclical,Yulon Motor Company Ltd.
+179,2204.TW,Consumer Cyclical,China Motor Corporation
+180,2206.TW,Consumer Cyclical,"Sanyang Motor Co., Ltd."
+181,2207.TW,Consumer Cyclical,"Hotai Motor Co.,Ltd."
+182,2227.TW,Consumer Cyclical,"Yulon Nissan Motor Co., Ltd"
+183,2233.TW,Industrials,"TURVO International Co., Ltd."
+184,2239.TW,Consumer Cyclical,"Cayman Engley Industrial Co., Ltd."
+185,2497.TW,Consumer Cyclical,"E-Lead Electronic Co., Ltd."
+186,4551.TW,Consumer Cyclical,"Global PMX Co., Ltd."
+187,4557.TW,Consumer Cyclical,Yusin Holding Corp.
+188,6288.TW,Technology,Excellence Optoelectronics Inc.
+189,6605.TW,Consumer Cyclical,"Depo Auto Parts Industrial Co., Ltd."
+190,2059.TW,Consumer Cyclical,"King Slide Works Co., Ltd."
+191,2303.TW,Technology,United Microelectronics Corporation
+192,2308.TW,Technology,"Delta Electronics, Inc."
+193,2312.TW,Technology,"Kinpo Electronics, Inc."
+194,2313.TW,Technology,"Compeq Manufacturing Co., Ltd."
+195,2314.TW,Technology,Microelectronics Technology Inc.
+196,2316.TW,Technology,"WUS Printed Circuit Co., Ltd."
+197,2323.TW,Technology,CMC Magnetics Corporation
+198,2324.TW,Technology,"Compal Electronics, Inc."
+199,2327.TW,Technology,Yageo Corporation
+200,2328.TW,Technology,Pan-International Industrial Corp.
+201,2329.TW,Technology,"Orient Semiconductor Electronics, Limited"
+202,2331.TW,Technology,"Elitegroup Computer Systems Co.,Ltd."
+203,2332.TW,Technology,D-Link Corporation
+204,2337.TW,Technology,"Macronix International Co., Ltd."
+205,2340.TW,Technology,Opto Tech Corporation
+206,2342.TW,Technology,Mosel Vitelic Inc.
+207,2344.TW,Technology,Winbond Electronics Corporation
+208,2345.TW,Technology,Accton Technology Corporation
+209,2351.TW,Technology,SDI Corporation
+210,2352.TW,Technology,Qisda Corporation
+211,2353.TW,Technology,Acer Incorporated
+212,2354.TW,Technology,"Foxconn Technology Co., Ltd."
+213,2355.TW,Technology,"Chin-Poon Industrial Co., Ltd."
+214,2356.TW,Technology,Inventec Corporation
+215,2357.TW,Technology,ASUSTeK Computer Inc.
+216,2359.TW,Technology,Solomon Technology Corporation
+217,2360.TW,Technology,Chroma ATE Inc.
+218,2362.TW,Technology,Clevo Co.
+219,2363.TW,Technology,Silicon Integrated Systems Corp.
+220,2365.TW,Technology,KYE Systems Corp.
+221,2367.TW,Technology,Unitech Printed Circuit Board Corp.
+222,2373.TW,Industrials,Aurora Corporation
+223,2374.TW,Technology,"Ability Enterprise Co., Ltd."
+224,2375.TW,Technology,Kaimei Electronic Corp.
+225,2376.TW,Technology,"Giga-Byte Technology Co., Ltd."
+226,2377.TW,Technology,"Micro-Star International Co., Ltd."
+227,2379.TW,Technology,Realtek Semiconductor Corp.
+228,2382.TW,Technology,Quanta Computer Inc.
+229,2383.TW,Technology,"Elite Material Co., Ltd."
+230,2385.TW,Technology,"Chicony Electronics Co., Ltd."
+231,2387.TW,Technology,Sunrex Technology Corporation
+232,2388.TW,Technology,"VIA Technologies, Inc."
+233,2390.TW,Industrials,"Everspring Industry Co., Ltd."
+234,2392.TW,Technology,"Cheng Uei Precision Industry Co., Ltd."
+235,2393.TW,Technology,"Everlight Electronics Co., Ltd."
+236,2395.TW,Technology,"Advantech Co., Ltd."
+237,2399.TW,Technology,Biostar Microtech International Corp.
+238,2401.TW,Technology,Sunplus Technology Company Limited
+239,2402.TW,Technology,"Ichia Technologies, Inc."
+240,2405.TW,Technology,Shuttle Inc.
+241,2406.TW,Technology,Gigastorage Corporation
+242,2408.TW,Technology,Nanya Technology Corporation
+243,2412.TW,Communication Services,"Chunghwa Telecom Co., Ltd."
+244,2414.TW,Technology,"Unitech Computer Co., Ltd."
+245,2417.TW,Technology,"AVerMedia Technologies, Inc."
+246,2419.TW,Technology,Hitron Technologies Inc.
+247,2420.TW,Industrials,Zippy Technology Corp.
+248,2423.TW,Technology,"Good Will Instrument Co., Ltd."
+249,2426.TW,Technology,Tyntek Corporation
+250,2428.TW,Technology,"Thinking Electronic Industrial Co., Ltd."
+251,2430.TW,Consumer Cyclical,"Tsann Kuen Enterprise Co.,Ltd"
+252,2433.TW,Industrials,Huxen Corporation
+253,2436.TW,Technology,"Weltrend Semiconductor, Inc."
+254,2439.TW,Technology,"Merry Electronics Co., Ltd."
+255,2441.TW,Technology,Greatek Electronics Inc.
+256,2448.TW,Technology,EPISTAR Corporation
+257,2449.TW,Technology,"King Yuan Electronics Co., Ltd."
+258,2450.TW,Consumer Cyclical,"Senao International Co., Ltd."
+259,2451.TW,Technology,"Transcend Information, Inc."
+260,2454.TW,Technology,MediaTek Inc.
+261,2455.TW,Technology,"Visual Photonics Epitaxy Co., Ltd."
+262,2456.TW,Technology,Chilisin Electronics Corp.
+263,2457.TW,Industrials,"Phihong Technology Co., Ltd."
+264,2458.TW,Technology,ELAN Microelectronics Corporation
+265,2459.TW,Technology,Audix Corporation
+266,2461.TW,Consumer Cyclical,K Laser Technology Inc.
+267,2462.TW,Technology,"Taiwan Line Tek Electronic Co., Ltd."
+268,2464.TW,Industrials,Mirle Automation Corporation
+269,2472.TW,Technology,Lelon Electronics Corp.
+270,2474.TW,Industrials,"Catcher Technology Co., Ltd."
+271,2476.TW,Industrials,"G-SHANK Enterprise Co., Ltd."
+272,2477.TW,Technology,"Meiloon Industrial Co., Ltd."
+273,2478.TW,Technology,"TA-I Technology Co., Ltd."
+274,2480.TW,Technology,"Stark Technology, Inc."
+275,2481.TW,Technology,Pan Jit International Inc.
+276,2484.TW,Technology,"Siward Crystal Technology Co., Ltd."
+277,2485.TW,Technology,Zinwell Corporation
+278,2488.TW,Technology,"Hanpin Electron Co., Ltd."
+279,2492.TW,Industrials,Walsin Technology Corporation
+280,2493.TW,Technology,"Ampoc Far-East Co., Ltd."
+281,2495.TW,Technology,"Infortrend Technology, Inc."
+282,3003.TW,Industrials,K.S. Terminals Inc.
+283,3005.TW,Technology,Getac Technology Corporation
+284,3006.TW,Technology,Elite Semiconductor Microelectronics Tech Inc
+285,3008.TW,Technology,"LARGAN Precision Co.,Ltd"
+286,3010.TW,Technology,Wah Lee Industrial Corp.
+287,3013.TW,Technology,Chenming Electronic Technology Corporation
+288,3014.TW,Technology,ITE Tech. Inc
+289,3015.TW,Industrials,FSP Technology Inc.
+290,3016.TW,Technology,Episil-Precision Inc.
+291,3017.TW,Technology,"Asia Vital Components Co., Ltd."
+292,3019.TW,Technology,"Asia Optical Co., Inc."
+293,3023.TW,Technology,"SINBON Electronics Co., Ltd."
+294,3024.TW,Technology,"Action Electronics Co., Ltd."
+295,3026.TW,Technology,"Holy Stone Enterprise Co.,Ltd."
+296,3028.TW,Technology,Zenitron Corporation
+297,3029.TW,Technology,"Zero One Technology Co.,Ltd."
+298,3030.TW,Technology,"Test Research, Inc."
+299,3032.TW,Technology,"Compucase Enterprise Co., Ltd."
+300,3033.TW,Technology,"Weikeng Industrial Co., Ltd."
+301,3035.TW,Technology,Faraday Technology Corporation
+302,3037.TW,Technology,Unimicron Technology Corp.
+303,3038.TW,Technology,Emerging Display Technologies Corp.
+304,3042.TW,Technology,TXC Corporation
+305,3044.TW,Technology,Tripod Technology Corporation
+306,3045.TW,Communication Services,"Taiwan Mobile Co., Ltd."
+307,3048.TW,Technology,"EDOM Technology Co., Ltd."
+308,3055.TW,Technology,Spirox Corporation
+309,3058.TW,Technology,Leader Electronics Inc.
+310,3059.TW,Technology,Altek Corporation
+311,3060.TW,Technology,"Min Aik Technology Co., Ltd."
+312,3062.TW,Technology,"CyberTAN Technology, Inc."
+313,3090.TW,Technology,Nichidenbo Corporation
+314,3130.TW,Industrials,104 Corporation
+315,3209.TW,Technology,Alltek Technology Corporation
+316,3231.TW,Technology,Wistron Corporation
+317,3305.TW,Technology,Shenmao Technology Inc
+318,3311.TW,Technology,Silitech Technology Corporation
+319,3356.TW,Industrials,GeoVision Inc.
+320,3376.TW,Industrials,"Shin Zu Shing Co., Ltd."
+321,3380.TW,Technology,Alpha Networks Inc.
+322,3406.TW,Technology,"Genius Electronic Optical Co., Ltd."
+323,3419.TW,Technology,"Wha Yu Industrial Co., Ltd."
+324,3443.TW,Technology,Global Unichip Corp.
+325,3454.TW,Industrials,Vivotek Inc.
+326,3481.TW,Technology,Innolux Corporation
+327,3576.TW,Technology,"United Renewable Energy Co., Ltd."
+328,3591.TW,Technology,Edison Opto Corporation
+329,3645.TW,Technology,Taimide Tech. Inc.
+330,3661.TW,Technology,"Alchip Technologies, Limited"
+331,3665.TW,Technology,Bizlink Holding Inc.
+332,3673.TW,Technology,"TPK Holding Co., Ltd."
+333,3679.TW,Technology,Nishoku Technology Inc.
+334,3682.TW,Communication Services,"Asia Pacific Telecom Co., Ltd."
+335,3686.TW,Technology,Danen Technology Corporation
+336,3694.TW,Technology,"AzureWave Technologies, Inc."
+337,3698.TW,Technology,Lextar Electronics Corporation
+338,3702.TW,Technology,WPG Holdings Limited
+339,3711.TW,Technology,"ASE Technology Holding Co., Ltd."
+340,4904.TW,Communication Services,"Far EasTone Telecommunications Co., Ltd."
+341,4906.TW,Technology,"Gemtek Technology Co., Ltd."
+342,4912.TW,Industrials,"Lemtech Holdings Co., Limited"
+343,4915.TW,Technology,Primax Electronics Ltd.
+344,4927.TW,Technology,"Apex International Co., Ltd."
+345,4934.TW,Technology,"Tainergy Tech Co., Ltd."
+346,4935.TW,Technology,Global Lighting Technologies Inc.
+347,4938.TW,Technology,Pegatron Corporation
+348,4942.TW,Technology,"Chia Chang Co., Ltd"
+349,4952.TW,Technology,Generalplus Technology Inc.
+350,4956.TW,Technology,"Epileds Technologies, Inc."
+351,4958.TW,Technology,Zhen Ding Technology Holding Limited
+352,4968.TW,Technology,RichWave Technology Corporation
+353,4976.TW,Technology,"Calin Technology Co., Ltd."
+354,4977.TW,Technology,"PCL Technologies, Inc."
+355,4994.TW,Communication Services,"X-Legend Entertainment Co., Ltd."
+356,4999.TW,Industrials,Sinher Technology Inc.
+357,5203.TW,Technology,CyberLink Corp.
+358,5225.TW,Technology,Eastech Holding Limited
+359,5264.TW,Technology,Casetek Holdings Limited
+360,5269.TW,Technology,ASMedia Technology Inc.
+361,5285.TW,Technology,"Jih Lin Technology Co., Ltd."
+362,5305.TW,Technology,Lite-On Semiconductor Corp.
+363,5388.TW,Technology,Sercomm Corporation
+364,5434.TW,Technology,"Topco Scientific Co.,Ltd."
+365,5471.TW,Technology,"Sonix Technology Co.,Ltd."
+366,6112.TW,Technology,"SYSAGE Technology Co., Ltd."
+367,6115.TW,Industrials,"I-Sheng Electric Wire & Cable Co., Ltd."
+368,6116.TW,Technology,HannStar Display Corporation
+369,6120.TW,Technology,Darwin Precisions Corporation
+370,6136.TW,Communication Services,"Fullerton Technology Co., Ltd."
+371,6139.TW,Industrials,"L&K Engineering Co., Ltd."
+372,6141.TW,Technology,"Plotech Co.,Ltd"
+373,6142.TW,Technology,"Cameo Communications, Inc."
+374,6153.TW,Technology,"Career Technology (Mfg.) Co., Ltd."
+375,6166.TW,Technology,"ADLINK Technology, Inc."
+376,6168.TW,Technology,Harvatek Corporation
+377,6176.TW,Technology,Radiant Opto-Electronics Corporation
+378,6183.TW,Industrials,Trade-Van Information Services Co.
+379,6189.TW,Technology,"Promate Electronic Co.,Ltd."
+380,6191.TW,Technology,Global Brands Manufacture Ltd.
+381,6192.TW,Technology,"Lumax International Corp., Ltd."
+382,6196.TW,Technology,Marketech International Corp.
+383,6197.TW,Technology,"Jess-link Products Co., Ltd."
+384,6202.TW,Technology,Holtek Semiconductor Inc.
+385,6205.TW,Technology,"Chant Sincere Co., Ltd."
+386,6206.TW,Technology,"Flytech Technology Co., Ltd."
+387,6209.TW,Technology,"Kinko Optical Co., Ltd."
+388,6213.TW,Technology,ITEQ Corporation
+389,6214.TW,Technology,Systex Corporation
+390,6216.TW,Technology,DrayTek Corporation
+391,6230.TW,Technology,Chaun-Choung Technology Corp.
+392,6235.TW,Industrials,Waffer Technology Corporation
+393,6239.TW,Technology,Powertech Technology Inc.
+394,6251.TW,Technology,"Dynamic Electronics Co., Ltd."
+395,6257.TW,Technology,Sigurd Microelectronics Corporation
+396,6269.TW,Technology,"Flexium Interconnect, Inc."
+397,6271.TW,Technology,"Tong Hsing Electronic Industries, Ltd."
+398,6277.TW,Technology,"Aten International Co., Ltd"
+399,6278.TW,Technology,Taiwan Surface Mounting Technology Corp.
+400,6282.TW,Industrials,AcBel Polytech Inc.
+401,6285.TW,Technology,Wistron NeWeb Corporation
+402,6409.TW,Industrials,Voltronic Power Technology Corp.
+403,6414.TW,Technology,Ennoconn Corporation
+404,6416.TW,Technology,CASwell Inc.
+405,6442.TW,Technology,EZconn Corporation
+406,6443.TW,Technology,TSEC Corporation
+407,6449.TW,Technology,"Apaq Technology Co., Ltd."
+408,6456.TW,Technology,General Interface Solution (GIS) Holding Limited
+409,6525.TW,Technology,"GEM Services, Inc."
+410,6579.TW,Technology,AAEON Technology Inc.
+411,6669.TW,Technology,Wiwynn Corporation
+412,8016.TW,Technology,Sitronix Technology Corporation
+413,8021.TW,Industrials,"Topoint Technology Co., Ltd."
+414,8039.TW,Technology,"Taiflex Scientific Co., Ltd."
+415,8046.TW,Technology,Nan Ya Printed Circuit Board Corporation
+416,8070.TW,Technology,Chang Wah Electromaterials Inc.
+417,8081.TW,Technology,Global Mixed-Mode Technology Inc.
+418,8103.TW,Technology,CviLux Corporation
+419,8105.TW,Technology,"Giantplus Technology Co., Ltd."
+420,8110.TW,Technology,"Walton Advanced Engineering, Inc."
+421,8112.TW,Technology,"Supreme Electronics Co., Ltd."
+422,8114.TW,Industrials,"Posiflex Technology, Inc."
+423,8210.TW,Technology,"Chenbro Micom Co., Ltd."
+424,8215.TW,Technology,BenQ Materials Corporation
+425,8249.TW,Industrials,Creative Sensor Inc.
+426,8261.TW,Technology,"Advanced Power Electronics Co., Ltd."
+427,8271.TW,Technology,Apacer Technology Inc.
+428,1436.TW,Real Estate,"Hua Yu Lien Development Co., Ltd"
+429,1808.TW,Real Estate,"Run Long Construction Co.,Ltd."
+430,2501.TW,Real Estate,"Cathay Real Estate Development Co.,Ltd."
+431,2505.TW,Real Estate,"Kuo Yang Construction Co.,Ltd"
+432,2511.TW,Real Estate,Prince Housing & Development Corp.
+433,2516.TW,Industrials,New Asia Construction & Development Corp.
+434,2520.TW,Real Estate,"Kindom Development Co., Ltd."
+435,2524.TW,Real Estate,"King's Town Construction Co., Ltd."
+436,2527.TW,Real Estate,Hung Ching Development & Construction Co. Ltd.
+437,2528.TW,Real Estate,Crowell Development Corp.
+438,2530.TW,Real Estate,"Delpha Construction Co.,Ltd."
+439,2534.TW,Real Estate,Hung Sheng Construction Ltd.
+440,2535.TW,Industrials,"Da-Cin Construction Co.,Ltd."
+441,2536.TW,Real Estate,"Hong Pu Real Estate Development Co., Ltd."
+442,2537.TW,Real Estate,"WE & WIN Development Co., LTD"
+443,2538.TW,Real Estate,Kee Tai Properties Co. Ltd.
+444,2545.TW,Real Estate,Huang Hsiang Construction Corporation
+445,2547.TW,Real Estate,"Radium Life Technology Co., Ltd."
+446,2548.TW,Real Estate,"Huaku Development Co., Ltd."
+447,2841.TW,Real Estate,Taiwan Land Development Corporation
+448,3052.TW,Industrials,Apex Science & Engineering Corp.
+449,3266.TW,Real Estate,"Sunty Development Co., LTD"
+450,3703.TW,Industrials,Continental Holdings Corporation
+451,5519.TW,Industrials,LongDa Construction & Development Corporation
+452,5521.TW,Industrials,Kung Sing Engineering Corporation
+453,5522.TW,Real Estate,"Farglory Land Development Co., Ltd."
+454,5525.TW,Real Estate,"Sweeten Real Estate Development Co.,Ltd."
+455,5531.TW,Real Estate,"Shining Building Business Co.,Ltd."
+456,5533.TW,Real Estate,"Founding Construction & Development Co., Ltd."
+457,5534.TW,Real Estate,"Chong Hong Construction Co., Ltd."
+458,9946.TW,Real Estate,San Far Property Limited
+459,2603.TW,Industrials,Evergreen Marine Corporation (Taiwan) Ltd.
+460,2605.TW,Industrials,Sincere Navigation Corporation
+461,2606.TW,Industrials,U-Ming Marine Transport Corporation
+462,2607.TW,Industrials,Evergreen International Storage & Transport Corporation
+463,2608.TW,Industrials,Kerry TJ Logistics Company Limited
+464,2609.TW,Industrials,Yang Ming Marine Transport Corporation
+465,2610.TW,Industrials,"China Airlines, Ltd."
+466,2617.TW,Industrials,"Taiwan Navigation Co., Ltd."
+467,2618.TW,Industrials,EVA Airways Corp.
+468,2634.TW,Industrials,Aerospace Industrial Development Corporation
+469,2637.TW,Industrials,"Wisdom Marine Lines Co., Limited"
+470,5607.TW,Industrials,"Farglory Free Trade Zone Investment Holding Co., Ltd"
+471,5608.TW,Industrials,"Shih Wei Navigation Co., Ltd."
+472,2701.TW,Real Estate,Wanhwa Enterprise Company
+473,2705.TW,Consumer Cyclical,"Leofoo Development Co., Ltd."
+474,2706.TW,Consumer Cyclical,First Hotel Company Ltd.
+475,2707.TW,Consumer Cyclical,Formosa International Hotels Corporation
+476,2723.TW,Consumer Cyclical,Gourmet Master Co. Ltd.
+477,2727.TW,Consumer Cyclical,Wowprime Corp.
+478,2731.TW,Consumer Cyclical,"Lion Travel Service Co., Ltd."
+479,5706.TW,Consumer Cyclical,"Phoenix Tours International, Inc."
+480,8462.TW,Consumer Cyclical,Power Wind Health Industry Incorporated
+481,9943.TW,Consumer Cyclical,"Holiday Entertainment Co.,Ltd"
+482,2801.TW,Financial Services,"Chang Hwa Commercial Bank, Ltd."
+483,2809.TW,Financial Services,King's Town Bank
+484,2812.TW,Financial Services,"Taichung Commercial Bank Co., Ltd."
+485,2816.TW,Financial Services,"Union Insurance Co., Ltd."
+486,2820.TW,Financial Services,China Bills Finance Corporation
+487,2834.TW,Financial Services,"Taiwan Business Bank,Ltd."
+488,2836.TW,Financial Services,"Bank of Kaohsiung Co., Ltd."
+489,2838.TW,Financial Services,Union Bank of Taiwan
+490,2845.TW,Financial Services,Far Eastern International Bank Ltd.
+491,2849.TW,Financial Services,"EnTie Commercial Bank Co., Ltd."
+492,2850.TW,Financial Services,"Shinkong Insurance Co., Ltd."
+493,2852.TW,Financial Services,"The First Insurance Co., Ltd."
+494,2855.TW,Financial Services,President Securities Corporation
+495,2867.TW,Financial Services,"Mercuries Life Insurance Co., Ltd."
+496,2880.TW,Financial Services,"Hua Nan Financial Holdings Co., Ltd."
+497,2881.TW,Financial Services,"Fubon Financial Holding Co., Ltd."
+498,2882.TW,Financial Services,"Cathay Financial Holding Co., Ltd."

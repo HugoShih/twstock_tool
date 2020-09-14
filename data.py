@@ -3,6 +3,7 @@ import pandas as pd
 import datetime
 import time
 import streamlit as st
+import yfinance as yf
 
 @st.cache
 def get_data(select_date, stock_type):
@@ -36,4 +37,25 @@ def get_type():
                         "21 - 化學工業", "22 - 生技醫療業", "23 - 油電燃氣業", "24 - 半導體業", "25 - 電腦及週邊設備業", \
                         "26 - 光電業", "27 - 通信網路業", "28 - 電子零組件業", "29 - 電子通路業", "30 - 資訊服務業", "31 - 其他電子業"]
     return type_lst
-    
+
+def get_tw_equity():
+    tw_equity_df = pd.read_csv("/Users/hugoshih/code/fintech_projects/twstock_tool/data/yf_tw_equity_list.csv")
+    tw_equity_df = tw_equity_df.iloc[:,1:]
+    return tw_equity_df
+
+@st.cache
+def get_company_info(stock):
+    company_dict = yf.Ticker(stock).info
+    return company_dict
+
+@st.cache
+def get_stock_history(stock):
+    start_date = yf.Ticker(stock).history(period="max").reset_index().iloc[0][0].strftime("%Y-%m-%d")
+    end_date= datetime.date.today()
+    stock_history = yf.Ticker(stock).history(start=start_date, end=end_date)
+    return stock_history
+
+@st.cache
+def stock_ohlc(stock, time_range):
+    ohlc_info = yf.Ticker(f"{stock}.TW").history(period=time_range)
+    return ohlc_info.sort_values(by="Date", ascending=False).iloc[:,:-2]

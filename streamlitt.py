@@ -1,11 +1,13 @@
 import streamlit as st
 import awesome_streamlit as ast
-import src.pages.daily_report as dr
+import src.pages.about as about
+import src.pages.app as app
 
 ast.core.services.other.set_logging_format()
 
 PAGES = {
-    "Daily Report": dr,
+    "About": about,
+    "Company Info / Finance": app,
 }
 
 def main():

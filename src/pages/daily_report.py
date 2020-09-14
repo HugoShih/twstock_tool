@@ -16,7 +16,7 @@ def write():
 
     pe_ratio = st.sidebar.checkbox("本益比")
     if pe_ratio:
-        pe_number_start = st.sidebar.text_input("Start", 15)
+        pe_number_start = st.sidebar.text_input("Start", 0)
         pe_number_end = st.sidebar.text_input("End", 20)
 
     
@@ -28,9 +28,9 @@ def write():
         if pe_ratio == True:
             df = df[(df["本益比"] >= float(pe_number_start)) & (df["本益比"] <= float(pe_number_end))]\
                 .sort_values(by=["本益比"], ascending=False)
-            st.dataframe(df.style.format({"本益比": '{:.2f}'}))
             symbol = st.text_input("symbol or code")
             st.write(symbol)
+        st.dataframe(df.style.format({"本益比": '{:.2f}'}))
 
             
 
