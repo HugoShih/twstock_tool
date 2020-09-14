@@ -9,3 +9,4 @@ streamlit==0.66.0
 scikit_learn==0.23.2
 tensorflow-cpu
 scipy==1.4.1
+lxml

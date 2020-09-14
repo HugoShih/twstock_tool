@@ -39,7 +39,7 @@ def get_type():
     return type_lst
 
 def get_tw_equity():
-    tw_equity_df = pd.read_csv("/Users/hugoshih/code/fintech_projects/twstock_tool/data/yf_tw_equity_list.csv")
+    tw_equity_df = pd.read_csv("data/yf_tw_equity_list.csv")
     tw_equity_df = tw_equity_df.iloc[:,1:]
     return tw_equity_df
 
