@@ -80,7 +80,7 @@ def write():
             lstm.compile(loss='mean_squared_error', optimizer='adam')
 
             if st.button('Train the model'):
-                with st.spinner("Training may take a while, please wait..."):
+                with st.spinner("Training may take time based on number of days. Please wait..."):
                     history_lstm = lstm.fit(x_train, y_train, epochs=25, batch_size=10, verbose=2)
                     st.success("Model is ready!")
 
@@ -120,27 +120,27 @@ def write():
                 st.write('Root Mean Square Error(RMSE) -', round(np.sqrt(metrics.mean_squared_error(y_test,pred)),2))
                 st.write('Mean Absolute Error(MAE) - ', round(metrics.mean_absolute_error(y_test,pred),2))
 
-                #st.header('Model Loss')
-                plt.figure(figsize=(5,5))
-                plt.plot(history_lstm.history['loss'], label='Train')
-                plt.legend()
-                plt.title('Model Loss')
-                plt.xlabel('Epoch')
-                plt.ylabel('Mean Square Error')
-                st.pyplot()
+                # #st.header('Model Loss')
+                # plt.figure(figsize=(5,5))
+                # plt.plot(history_lstm.history['loss'], label='Train')
+                # plt.legend()
+                # plt.title('Model Loss')
+                # plt.xlabel('Epoch')
+                # plt.ylabel('Mean Square Error')
+                # st.pyplot()
 
-                #Plot/Create the data for the graph
-                train = df_new[:training_data_len]
-                val = df_new[training_data_len:]
-                val['Predictions'] = pred
+                # #Plot/Create the data for the graph
+                # train = df_new[:training_data_len]
+                # val = df_new[training_data_len:]
+                # val['Predictions'] = pred
 
-                st.header('Testing Results')
-                #Visualize the data
-                plt.figure(figsize=(16,8))
-                plt.title('LSTM Model',fontsize=18)
-                plt.xlabel('Date', fontsize=18)
-                plt.ylabel("{} price USD ($)".format(word), fontsize=18)
-                plt.plot(train[word])
-                plt.plot(val[[word, 'Predictions']])
-                plt.legend(['Train', 'Val', 'Predictions'], loc='lower right')
-                st.pyplot(clear_figure=True)
+                # st.header('Testing Results')
+                # #Visualize the data
+                # plt.figure(figsize=(16,8))
+                # plt.title('LSTM Model',fontsize=18)
+                # plt.xlabel('Date', fontsize=18)
+                # plt.ylabel("{} price USD ($)".format(word), fontsize=18)
+                # plt.plot(train[word])
+                # plt.plot(val[[word, 'Predictions']])
+                # plt.legend(['Train', 'Val', 'Predictions'], loc='lower right')
+                # st.pyplot(clear_figure=True)
