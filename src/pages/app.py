@@ -51,7 +51,7 @@ def write():
                 return option[item]
             word = st.selectbox('Select a feature you want to predict', options=list(option.keys()))
             
-            num_days= st.text_input("Enter a number of days", "14")
+            num_days= st.text_input("Enter a number of days", "1")
             num_days = int(num_days)
             st.info(f"Predict the {format_func(word)} price of the next deal day based on past {num_days} days")
 
@@ -63,7 +63,7 @@ def write():
             scaler = MinMaxScaler(feature_range=(0, 1))
             scaled_data = scaler.fit_transform(dataset)
 
-            #Create a training data set that contains the past 14 day closing price values
+            #Create a training data set that contains the past 1 day closing price values
             #that we want to use to predict the 15st closing price value.
             train_data = scaled_data[0:training_data_len, : ]
             x_train, y_train = [], []
