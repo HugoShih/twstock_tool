@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from data import get_tw_equity, get_company_info, stock_ohlc, get_stock_history
+from data import get_tw_equity, get_company_info, stock_ohlc, get_stock_history, get_symbol_lst
 import datetime
 import math
 from sklearn.preprocessing import MinMaxScaler
@@ -13,16 +13,27 @@ import matplotlib.pyplot as plt
 def write():
     st.title("Company")
     df = get_tw_equity()
+
+    symbol_lst = get_symbol_lst() # Full symbol with .TW
+    new_symbol_lst = [symbol[:-3] for symbol in symbol_lst ] # Symbol with no .TW
+
     tw_equity_sector = sorted(df["sector"].unique().tolist())
     tw_sector = st.sidebar.selectbox("Select sector", tw_equity_sector)
     stock = st.sidebar.text_input("Enter symbol", value="")
     stock_lst = df[df.sector == tw_sector].rename(columns={"longName":"Company Name"})
     st.write(f"Sector: {tw_sector}")
 
+    # Symbol input condition
+    if stock in symbol_lst:
+        stock = stock
+    elif stock in new_symbol_lst:
+        stock = stock + ".TW"
+
+    # App condition
     if stock == "":
         st.table(stock_lst[["symbol","Company Name"]].reset_index(drop=True))
     else:
-        company_info = get_company_info(f"{stock}.TW")
+        company_info = get_company_info(stock)
         st.write(f"Company Name: {company_info['longName']}")
         st.write(f"Industry: {company_info['industry']}")
         business_summary = st.checkbox("Business Summary")

@@ -38,10 +38,17 @@ def get_type():
                         "26 - 光電業", "27 - 通信網路業", "28 - 電子零組件業", "29 - 電子通路業", "30 - 資訊服務業", "31 - 其他電子業"]
     return type_lst
 
+@st.cache
 def get_tw_equity():
     tw_equity_df = pd.read_csv("data/yf_tw_equity_list.csv")
     tw_equity_df = tw_equity_df.iloc[:,1:]
     return tw_equity_df
+
+@st.cache
+def get_symbol_lst():
+    tw_equity_df = pd.read_csv("data/yf_tw_equity_list.csv")
+    symbol_lst = tw_equity_df["symbol"].tolist()
+    return symbol_lst
 
 @st.cache
 def get_company_info(stock):
@@ -57,5 +64,5 @@ def get_stock_history(stock):
 
 @st.cache
 def stock_ohlc(stock, time_range):
-    ohlc_info = yf.Ticker(f"{stock}.TW").history(period=time_range)
+    ohlc_info = yf.Ticker(stock).history(period=time_range)
     return ohlc_info.sort_values(by="Date", ascending=False).iloc[:,:-2]

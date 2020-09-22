@@ -29,8 +29,8 @@ def write():
     st.image("data/image/sector.png", width=400)
     st.markdown("It will automatically generate the list on the right side.")
     st.image("data/image/sector_lst.png", width=600)
-    st.markdown("""Enter the symbol number <b>without ".TW"</b>. System will add it for you. Then, press \
-        <b>Enter</b>.""", unsafe_allow_html=True)
+    st.markdown("""Enter the symbol number you are interested. You can either type the number only (like "1101") or \
+        full symbol name (like "1101.TW").Then, press <b>Enter</b>.""", unsafe_allow_html=True)
     st.markdown("Note: If you want to go back to the sector list, please delete the symbol number and press enter.")
     st.image("data/image/symbol.png", width=400)
     st.markdown("After you enter the symbol number, you will get the following options.")
