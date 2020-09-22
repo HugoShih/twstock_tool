@@ -66,7 +66,7 @@ def write():
             num_days = int(num_days)
             st.info(f"Predict the {format_func(word)} price of the next deal day based on past {num_days} days")
 
-            df = get_stock_history(f"{stock}.TW")
+            df = get_stock_history(stock)
             df_new = df[[word]]
             dataset = df_new.values
             #test:train = 3:7
